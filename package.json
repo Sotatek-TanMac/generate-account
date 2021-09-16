@@ -1,0 +1,15 @@
+{
+  "name": "generate-account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "tanmv",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/util-crypto": "^7.3.1"
+  }
+}
